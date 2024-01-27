@@ -21,7 +21,8 @@ on cartesian coordinates (*cluster_specimen*; experimental).
     processing pipelines
 
 please cite one or more of the following studies:
-- (1) Mancini, G.; Fusè, M.; Lipparini, F.; Nottoli, M.; Scalmani, G.; Barone, V. Molecular Dynamics Simulations Enforcing Nonperiodic Boundary Conditions: New Developments and Application to the Solvent Shifts of Nitroxide Magnetic Parameters. J. Chem. Theory Comput. 2022, acs.jctc.2c00046. https://doi.org/10.1021/acs.jctc.2c00046.
-(2) Mancini, G.; Fusè, M.; Lazzari, F.; Chandramouli, B.; Barone, V. Unsupervised Search of Low-Lying Conformers with Spectroscopic Accuracy: A Two-Step Algorithm Rooted into the Island Model Evolutionary Algorithm. J. Chem. Phys. 2020, 153 (12), 124110. https://doi.org/10.1063/5.0018314.
-(3)  Mancini, G.; Del Galdo, S.; Chandramouli, B.; Pagliai, M.; Barone, V. Computational Spectroscopy in Solution by Integration of Variational and Perturbative Approaches on Top of Clusterized Molecular Dynamics. J. Chem. Theory Comput. 2020, 16 (9), 5747–5761. https://doi.org/10.1021/acs.jctc.0c00454.
+1. Mancini, G.; Fusè, M.; Lazzari, F.; Chandramouli, B.; Barone, V., Fast exploration of potential energy surfaces with a joint venture of quantum chemistry, evolutionary algorithms and unsupervised learning, Digital Discovery, 2022,1, 790-805, https://doi.org/10.1039/D2DD00070A
+2. Mancini, G.; Fusè, M.; Lipparini, F.; Nottoli, M.; Scalmani, G.; Barone, V. Molecular Dynamics Simulations Enforcing Nonperiodic Boundary Conditions: New Developments and Application to the Solvent Shifts of Nitroxide Magnetic Parameters. J. Chem. Theory Comput. 2022, acs.jctc.2c00046. https://doi.org/10.1021/acs.jctc.2c00046.
+3. Mancini, G.; Fusè, M.; Lazzari, F.; Chandramouli, B.; Barone, V. Unsupervised Search of Low-Lying Conformers with Spectroscopic Accuracy: A Two-Step Algorithm Rooted into the Island Model Evolutionary Algorithm. J. Chem. Phys. 2020, 153 (12), 124110. https://doi.org/10.1063/5.0018314.
+4. Mancini, G.; Del Galdo, S.; Chandramouli, B.; Pagliai, M.; Barone, V. Computational Spectroscopy in Solution by Integration of Variational and Perturbative Approaches on Top of Clusterized Molecular Dynamics. J. Chem. Theory Comput. 2020, 16 (9), 5747–5761. https://doi.org/10.1021/acs.jctc.0c00454.
 
